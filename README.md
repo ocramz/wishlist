@@ -57,3 +57,8 @@ Machine Learning
 - TruncatedSVD
 - ICA
 - Dimensionality-reduction
+
+Todo
+====
+
+Add sections related to data science and not only Machine Learning such as Data Mining, Distributed Processing, etc
