@@ -58,7 +58,9 @@ Machine Learning
 - ICA
 - Dimensionality-reduction
 
-Todo
+Contribute
 ====
+
+If you know a library that has to do with Data Science, please consider [adding](https://github.com/DataHaskell/wishlist/edit/gh-pages/README.md) it, if the category it belongs to doesn't exist, suggest a category for it.
 
 Add sections related to data science and not only Machine Learning such as Data Mining, Distributed Processing, etc
