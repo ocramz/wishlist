@@ -26,14 +26,13 @@ Machine Learning
        - sibe - [hackage](http://hackage.haskell.org/package/sibe), [github](https://github.com/mdibaiee/sibe)
   - Bernoulli Naive Bayes
 
-- Decision Trees
-    - Random Forests
-    
-- AdaBoost
 
-- SVM
+- Support Vector Machines 
 
 - Ensemble methods
+  - Decision Trees
+      - Random Forests
+  - AdaBoost    
 
 #### Regression
 
@@ -42,7 +41,7 @@ Machine Learning
   - statistics - [hackage](http://hackage.haskell.org/package/statistics), [github](https://github.com/bos/statistics)
 
 ### Reinforcement Learning
-- Policy-gradient
+- Policy gradient
 - Q-Learning
      - Neural Network Q-Learning
 
@@ -56,13 +55,13 @@ Machine Learning
 
 
 ### Dimensionality Reduction
-- PCA
+- Principal Component Analysis (PCA)
       - sibe - [hackage](http://hackage.haskell.org/package/sibe), [github](https://github.com/mdibaiee/sibe)
   - Kernel PCA
   - Incremental PCA
   - Truncated SVD
   
-- ICA
+- Independent Component Analysis (ICA)
 
 
 Contribute
